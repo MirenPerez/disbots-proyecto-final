@@ -40,3 +40,7 @@ DisBots es una tienda online desarrollada para la venta de bots de Discord.
 
 Miren Pérez
 Proyecto Final 2ºDAW
+
+## Versión de desarrollo
+
+Rama utilizada para pruebas y mejoras del proyecto.
